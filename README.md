@@ -1,10 +1,2 @@
-# Portfolio_Ralf_van_Eck
-# Portfolio_Ralf_van_Eck
-# portfolio_Ralf
-# Portfolio_Ralf_van_Eck
-# Portfolio_Ralf_van_Eck
-# Portfolio_Ralf_van_Eck
-# Portfolio_Ralf_van_Eck
-# portfolio_Ralf
-# portfolio_Ralf
-# portfolio_Ralf
+Dit is mijn Portfolio.
+Deze wordt steeds bijgewerkt
