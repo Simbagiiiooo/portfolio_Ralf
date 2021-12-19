@@ -127,8 +127,8 @@ footer {
   justify-content: center;
   color: #1a374d;
   margin-top: 1.3rem;
-  border-radius: ;
 }
+
 footer h1 {
   font-family: IBMPlexMono;
   font-size: 1.1rem;
@@ -143,11 +143,12 @@ footer h4 {
 }
 
 footer svg {
-  height: 2.2em;
-  width: 2.2em;
+  height: 1.5em;
+  width: 1.5em;
   margin-top: 1.2em;
   margin-left: 4em;
   cursor: pointer;
+  border: 2px solid black;
 }
 
 footer svg:hover {
@@ -194,7 +195,7 @@ footer svg:hover {
   }
   .projecten em {
     padding-left: 15vw;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
   .projecten span {
     font-size: 1.5rem;
@@ -208,5 +209,9 @@ footer svg:hover {
   }
   footer h4 {
     font-size: 1.4rem;
+  }
+  footer svg {
+    height: 2.2em;
+    width: 2.2em;
   }
 }
