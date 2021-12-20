@@ -201,6 +201,9 @@ footer svg:hover {
   .projecten span {
     font-size: 1.5rem;
   }
+  .project-card a {
+    font-size: 1rem;
+  }
   footer {
     padding-left: 5em;
     font-size: 15px;
