@@ -17,7 +17,7 @@ const TimelineHeader = () => {
                 <li key = "2">
                     <BsFillBriefcaseFill
                         style={{
-                            backgroundColor: "#ffd900",
+                            backgroundColor: "#ff8400",
                         }}/>
                     <span>Project voor mezelf</span>
                 </li>

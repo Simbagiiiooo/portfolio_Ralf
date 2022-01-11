@@ -63,7 +63,7 @@ const Timeline = () => {
         if (type === "Winc") {
             return "#4f8bc9"
         } if (type === "opdracht") {
-            return "#ffd900"
+            return "#ff8400"
         } 
     }
 
