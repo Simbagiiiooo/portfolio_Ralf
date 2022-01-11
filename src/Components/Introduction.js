@@ -8,13 +8,13 @@ const Introduction=()=> {
             Ik heb al veel verschillende banen gehad, maar dit zijn naar mij mening altijd banen onder mijn niveau geweest.
             Dit is volgens mij te wijten geweest omdat ik niet wist wat ik wilde worden.
             Ik heb 2 jaar geleden een aantal persoonlijkheid en beroepskeuze testen gedaan.
-            Daar zij een aantal zaken naar boven gekomen namelijk:<br></br>
+            Daar zij een aantal zaken naar boven gekomen namelijk:<br></br><br></br>
             - Computers<br></br>
             - Ontwerpen<br></br>
             - Ontwikkeling(maken en/of bouwen)<br></br>
             - Analytisch<br></br>
-            - Onderzoekend<br></br>
-            Vanaf september 2020 tot september 2021 ben ik bezig geweest met de opleiding Front-end development bij Winc
+            - Onderzoekend<br></br><br></br>
+            Daar ben ik mee aan de slag gegaan en vanaf september 2020 tot september 2021 ben ik bezig geweest met de opleiding Front-end development bij Winc
             Academy. De opleiding heb ik inmiddels afgerond.<br></br>
             Ik heb de opleiding met veel plezier gedaan. Omdat je bij de opleiding veel zelf bezig bent en veel zelf uit moet zoeken. 
             Soms is het niet makkelijk geweest en daardoor veel over en van mezelf geleerd.<br></br>

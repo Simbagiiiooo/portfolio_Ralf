@@ -105,7 +105,8 @@ const timelineData =[
     talen: ["React", "CSS"],
     text: `Dit project wil ik hier ook delen, omdat ik hier een react app gebouwd heb. Eén van de belangrijkste
     dingen die ik heb gedaan is het dynamisch toevoegen van foto's aan mijn website. Voor het tijdlijn-element heb ik react-vertical-timeline gebruikt. Hiervoor 
-    was het nuttig om inline te stylen, dus daar heb ik mee gewerkt.`,
+    was het nuttig om inline te stylen, dus daar heb ik mee gewerkt.
+    Ook is hij mobile first`,
     gitHubRepo: "https://github.com/Simbagiiiooo/portfolio_Ralf",
     showInfo: false
     },
@@ -116,7 +117,7 @@ const timelineData =[
     title: "Website bedrijf",
     talen: ["html", "CSS","JavaScript"],
     text: `Dit project is om aan te tonen dat ik een redelijke website kan maken, hiervoor heb ik html,css en een klein beetje javascript gebruikt.
-    Het is een leerproject, maar toch zo veel mogelijk echt te laten lijken.
+    Het is een leerproject, maar toch zo veel mogelijk echt laten lijken.
     Hierna ga ik er een maken met behulp van React.`,
     gitHubRepo: "https://github.com/Simbagiiiooo/Template-company",
     siteUrl: "https://template-company-1.netlify.app/",
@@ -126,7 +127,7 @@ const timelineData =[
     {date: "januari 2022",
     type: "opdracht",
     imgUrl: "https://github.com/Simbagiiiooo/portfolio_Ralf/blob/main/public/project-coming-soon.png?raw=true",
-    title: "Website in React",
+    title: "Website bedrijf in React",
     talen: ["React", "CSS","JavaScript"],
     text: `Coming Soon`,
     gitHubRepo: "https://github.com/Simbagiiiooo/Template-company",
