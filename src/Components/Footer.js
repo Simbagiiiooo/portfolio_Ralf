@@ -15,7 +15,7 @@ const Footer = () => {
             <h4>Gemaakt door Ralf van Eck &copy;</h4>
           </div>
           <div className="socials">
-          <a className="link" href="https://www.linkedin.com/in/ralf-van-eck-893b0591/" target="_blank" rel="noreferrer">
+          <a className="link" href="https://www.linkedin.com/in/ralf-van-eck/" target="_blank" rel="noreferrer">
                 <FaLinkedin 
                     style ={{
                         fill: "#5b5b5b",
