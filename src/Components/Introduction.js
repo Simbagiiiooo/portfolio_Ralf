@@ -5,7 +5,7 @@ const Introduction=()=> {
     return (
         <div className="introduction">
             <p>Graag wil ik mezelf aan u voorstellen. <br></br><br></br>Mijn naam is Ralf van Eck.<br></br><br></br>
-                Ik heb op 47 jarige de Front-end development cursus van Winc Academy gedaan en een certificaat behaald.<br></br>
+                Ik heb op 47 jarige leeftijd de Front-end development cursus van Winc Academy gedaan en een certificaat behaald.<br></br>
                 Het was soms best pittig en het kostte soms iets meer moeite dan gedacht maar het hele proces vanaf de eerste stap (HTML) tot en met de eindopdracht was enorm uitdagend en leuk.<br></br>
                 Creatief bezig zijn, het zoeken naar de juiste oplossing en doorzetten... dat zijn de dingen waar ik energie uithaal en waar ik zeker in door wil gaan.<br></br>
                 Ik wil met dit certificaat een droombaan te vinden, maar…<br></br><br></br>
